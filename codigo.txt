@@ -2,9 +2,23 @@ GIT
 
 git init   (crear un repositorio nuevo / vacio)
 git add .  (grega al stage estado de preparacion del codigo)
-git commit -m "DESCRIPCION DEL COMMIT"
-gis status  (ver el estado del repositorio)
+
+git config --global user.email 123@123.com
+git config --global user.name "Juanito"
  
+git commit -m "DESCRIPCION DEL COMMIT"
+
+git status  (ver el estado del repositorio)
+git log     (Historial o log de los commits)
+
+____________________________________
+GIT REMOTO GITHUB.COM
+
+creamos el repositorio vacio en github.com
+git remote add origin https://github.com/USUARIO/NOMBRE_DEL_REPO.git
+git branch -M main
+git push -u origin main
+____________________________________
 
 
 CMD
