@@ -1,0 +1,16 @@
+GIT 
+
+
+
+
+
+CMD
+
+cd CARPETA  (ingrtesar a la carpeta)
+cd ..     (regresa a la carpeta anterior)
+dir      (muestra el contenido de una carpeta)
+cls      (limpiar pantalla)
+
+mkdir     (crear una carpeta)
+
+
