@@ -1,7 +1,10 @@
 GIT 
 
-
-
+git init   (crear un repositorio nuevo / vacio)
+git add .  (grega al stage estado de preparacion del codigo)
+git commit -m "DESCRIPCION DEL COMMIT"
+gis status  (ver el estado del repositorio)
+ 
 
 
 CMD
